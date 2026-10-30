@@ -1,4 +1,4 @@
-# AndroidForge
+# AndroidForge.
 
 > A small "Android build service inside GitHub" — drop a ZIP, run a workflow, get an APK.
 
