@@ -4,7 +4,7 @@ name: Build & Publish Android Image
 # AndroidForge — Docker image build & publish to GitHub Container Registry.
 #
 # This workflow builds Dockerfile.android and pushes the resulting image to:
-#   ghcr.io/<owner>/androidforge-build-env
+#   ghcr.io/<owner>/androidforge-build-env.
 #
 # When it runs:
 #   • On push to main when Dockerfile.android, .dockerignore, or this
